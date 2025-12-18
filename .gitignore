@@ -34,3 +34,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE
+.idea/
+.vscode/
+
+# Data files (sensitive - tokens stored here)
+# Keep members.json as seed data, but gitignore tokens
+data/tokens.json

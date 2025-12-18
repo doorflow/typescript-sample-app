@@ -1,0 +1,26 @@
+[
+  {
+    "id": "team-001",
+    "name": "Engineering",
+    "description": "Software development team",
+    "doorflowGroupId": null,
+    "createdAt": "2025-12-18T18:08:25.075Z",
+    "updatedAt": "2025-12-18T18:08:25.075Z"
+  },
+  {
+    "id": "team-002",
+    "name": "Sales",
+    "description": "Sales and business development",
+    "doorflowGroupId": null,
+    "createdAt": "2025-12-18T18:08:25.075Z",
+    "updatedAt": "2025-12-18T18:08:25.075Z"
+  },
+  {
+    "id": "team-003",
+    "name": "Operations",
+    "description": "Operations and support",
+    "doorflowGroupId": null,
+    "createdAt": "2025-12-18T18:08:25.075Z",
+    "updatedAt": "2025-12-18T18:08:25.075Z"
+  }
+]

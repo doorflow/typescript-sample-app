@@ -1,0 +1,66 @@
+[
+  {
+    "id": "member-001",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@example.com",
+    "phone": "+1-555-0101",
+    "department": "Engineering",
+    "jobTitle": "Senior Developer",
+    "notes": "Team lead for the mobile app project",
+    "membershipType": "premium",
+    "teamIds": [
+      "team-001"
+    ],
+    "doorflowPersonId": null,
+    "createdAt": "2025-12-18T18:08:25.071Z",
+    "updatedAt": "2025-12-18T18:08:25.071Z"
+  },
+  {
+    "id": "member-002",
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bob.johnson@example.com",
+    "phone": "+1-555-0102",
+    "department": "Sales",
+    "jobTitle": "Account Executive",
+    "membershipType": "standard",
+    "teamIds": [
+      "team-002"
+    ],
+    "doorflowPersonId": null,
+    "createdAt": "2025-12-18T18:08:25.071Z",
+    "updatedAt": "2025-12-18T18:08:25.071Z"
+  },
+  {
+    "id": "member-003",
+    "firstName": "Carol",
+    "lastName": "Williams",
+    "email": "carol.williams@example.com",
+    "phone": "+1-555-0103",
+    "department": "Engineering",
+    "jobTitle": "DevOps Engineer",
+    "notes": "On-call rotation lead",
+    "membershipType": "premium",
+    "teamIds": [
+      "team-001",
+      "team-003"
+    ],
+    "doorflowPersonId": null,
+    "createdAt": "2025-12-18T18:08:25.071Z",
+    "updatedAt": "2025-12-18T18:08:25.071Z"
+  },
+  {
+    "id": "member-004",
+    "firstName": "Eva",
+    "lastName": "Martinez",
+    "email": "eva.martinez@example.com",
+    "department": "Operations",
+    "jobTitle": "Office Manager",
+    "membershipType": "standard",
+    "teamIds": [],
+    "doorflowPersonId": null,
+    "createdAt": "2025-12-18T18:08:25.071Z",
+    "updatedAt": "2025-12-18T18:08:25.071Z"
+  }
+]
